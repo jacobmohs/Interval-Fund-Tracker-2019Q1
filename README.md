@@ -1,2 +1,2 @@
-# Interval-Fund-Tracker-2019Q1
-Charts and data from Interval Fund Trackers 2019Q1 update
+# Interval-Fund-Tracker-Updates
+Charts and data from Interval Fund Trackers quarterly updates
